@@ -7,7 +7,7 @@
 Put this directive in a HTTP server block:
 
 ```
-wks <path to PGP public key>…
+wkd <path to PGP public key>…
 ```
 
 ## License
